@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: magenta;
+}
+
+h4 {
+  text-align: center;
+}
+
+#gif-container {
+  margin-top: 25px;
+  display: inline-block;
+}
+
+.col-md-4 {
+  margin-top: 5px;
+}
+
+.form-row {
+  margin-bottom: 5px;
+}
