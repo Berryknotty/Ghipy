@@ -1,5 +1,5 @@
 var topics = ['Totoro', 'Studio Ghibli', 'Spirited Away', 'Howls Moving Castle'];
-var queryURL = "http://api.giphy.com/v1/gifs/search?q=";
+var queryURL = "https://api.giphy.com/v1/gifs/search?q=";
 var limit = "&limit=20"
 var apiKey = "&api_key=dc6zaTOxFJmzC";
 
